@@ -8,12 +8,12 @@
 
 
 ### Skills
-    Database ( Redis, CouchDB, AllegroGraph, MSSQL, Oracle ) 
-    Agile Methodologies ( GIT/SVN, Pivotal Tracker, Test Driven Development ) 
+    Agile Methodologies ( TDD, Pairing, Pivotal Tracker ) 
     Languages ( JavaScript, Python, SQL, SPARQL, PowerShell, Java, Visual Basic ) 
-    Frameworks ( mod_wsgi, AngularJS, Ionic, Celery ) 
-    OS ( Solaris, Linux, Mac, Windows, Mainframe ) 
-    Tools ( PyCharm, Eclipse , Visual Studio )
+    Database ( Redis, CouchDB, AllegroGraph, MSSQL, Oracle ) 
+    Frameworks ( mod_wsgi, AngularJS, Ionic, Celery, Sphinx ) 
+    OS ( CentOS, Ubuntu, Mac/IOS, Windows, Mainframe ) 
+    Tools ( Jenkins, PyCharm, Eclipse, Visual Studio )
 
 ### Employment History
 
