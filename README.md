@@ -1,13 +1,13 @@
 # Grant Steinfeld - Curriculum vitae
 
 
-### Titles ###
+### Titles
     Software Architect
     Software Engineer
     DevOps Engineer
 
 
-### Skills ### 
+### Skills
     Database ( Oracle, Microsoft SQL Server, NoSQL ) 
     Agile Methodologies ( SVN/GIT, Pivotal Tracker, Test Driven Development ) 
     Languages ( Java, C#, C, JavaScript, Python, Erlang, PowerShell, Prolog ) 
@@ -15,7 +15,7 @@
     OS ( Solaris, Linux, Mac, Windows, Mainframe ) 
     Tools ( Excel, Photoshop, Blender, Eclipse , Visual Studio )
 
-### Employment History ### 
+### Employment History
 
 January 1998 – Present
 Consultant
