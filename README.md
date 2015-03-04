@@ -9,11 +9,11 @@
 
 ### Skills
     Agile Methodologies ( TDD, Pairing, Pivotal Tracker ) 
-    Languages ( JavaScript, Python, SQL, SPARQL, PowerShell, Java, Visual Basic ) 
+    Languages ( JavaScript, Python, SQL, PowerShell, SPARQL, Lisp, Erlang, Java, Visual Basic ) 
     Database ( Redis, CouchDB, AllegroGraph, MSSQL, Oracle ) 
-    Frameworks ( mod_wsgi, AngularJS, Ionic, Celery, Sphinx ) 
+    Frameworks ( mod_wsgi, AngularJS, Ionic, NodeJS, Celery, Sphinx ) 
     OS ( CentOS, Ubuntu, Mac/IOS, Windows, Mainframe ) 
-    Tools ( Jenkins, PyCharm, Eclipse, Visual Studio )
+    Tools ( Jenkins, PyCharm, Eclipse, Visual Studio, Blender, Photoshop )
 
 ### Employment History
 
